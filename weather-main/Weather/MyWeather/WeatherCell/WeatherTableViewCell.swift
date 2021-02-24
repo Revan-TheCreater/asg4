@@ -2,9 +2,6 @@
 //  WeatherTableViewCell.swift
 //  MyWeather
 //
-//  Created by Afraz Siddiqui on 3/25/20.
-//  Copyright © 2020 ASN GROUP LLC. All rights reserved.
-//
 
 import UIKit
 
